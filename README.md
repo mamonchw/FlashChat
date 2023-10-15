@@ -11,9 +11,7 @@ FlashChat is a real-time messaging application built using Flutter and Firebase.
 - Synced messages across multiple devices.
 - Minimalistic and user-friendly UI.
 
-## Screenshots
 
-*(Add some screenshots of the application here.)*
 
 ## Installation
 
